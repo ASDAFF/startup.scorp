@@ -1,1 +1,0 @@
-$(document).ready(function(){$('form.subscribe-form').validate({})})
