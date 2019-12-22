@@ -1,0 +1,33 @@
+<?
+$MESS['SHOW_DETAIL_LINK'] = 'Отображать ссылку на детальную страницу';
+$MESS["COUNT_IN_LINE"] = "Количество элементов в строке";
+$MESS["T_COUNT_LIST_LINE"] = "Количество элементов в строке";
+$MESS["VIEW_TYPE"] = "Вид отображения";
+$MESS["VIEW_TYPE_LIST"] = "Список";
+$MESS["VIEW_TYPE_TABLE"] = "Таблица";
+$MESS["VIEW_TYPE_ACCORDION"] = "Аккордион";
+$MESS["COUNT_IN_LINE"] = "Количество элементов в строке";
+$MESS["SHOW_TABS"] = "Показывать табы";
+$MESS["SHOW_NAME"] = "Показывать название";
+$MESS["SHOW_DETAIL"] = "Ссылка на детальную страницу";
+$MESS["SHOW_IMAGE"] = "Показывать изображение";
+$MESS["IMAGE_POSITION"] = "Положение изображения";
+$MESS["IMAGE_POSITION_LEFT"] = "Слева";
+$MESS["IMAGE_POSITION_RIGHT"] = "Справа";
+$MESS["IMAGE_POSITION_TOP"] = "Сверху";
+$MESS["IMAGE_POSITION_BOTTOM"] = "Снизу";
+$MESS["T_IS_PROJECT"] = "Проект";
+$MESS["DISPLAY_DATE"] = "Показывать дату";
+$MESS["USE_SHARE"] = "Показывать ссылки на соцсети";
+$MESS["T_SET_BREADCRUMBS_CHAIN_FROM"] = "Строить навигационную цепочку из";
+$MESS["T_SET_BREADCRUMBS_CHAIN_FROM_H1"] = "заголовка элемента/раздела (h1)";
+$MESS["T_SET_BREADCRUMBS_CHAIN_FROM_NAME"] = "названия элемента/раздела";
+$MESS['S_ASK_QUESTION'] = 'Текст кнопки "Задать вопрос"';
+$MESS['S_ORDER_PROJECT'] = 'Текст кнопки "Заказать проект"';
+$MESS['T_GALLERY'] = 'Текст подзаголовка "Галерея"';
+$MESS['T_DOCS'] = 'Текст подзаголовка "Документы"';
+$MESS['T_PROJECTS'] = 'Текст подзаголовка "Проекты"';
+$MESS['T_CHARACTERISTICS'] = 'Текст подзаголовка "Характеристики"';
+$MESS["T_INCLUDE_SUBSECTIONS"] = "Показывать элементы подразделов раздела";
+$MESS['T_VIDEO'] = 'Текст подзаголовка "Видео"';
+?>

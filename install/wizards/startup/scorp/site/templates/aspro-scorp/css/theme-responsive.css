@@ -1,0 +1,120 @@
+@media (max-width: 991px) {
+
+	/* Thumb Info */
+	a.thumb-info span.thumb-info-title {
+		font-size: 14px;
+	}
+
+	a.thumb-info span.thumb-info-more {
+		font-size: 11px;
+	}
+
+	/* Misc */
+	.thumbnail {
+		border: 0;
+	}
+
+	/* Flexslider */
+	div.flexslider [class*="col-md-"] {
+		text-align: center;
+	}
+
+	div.flexslider [class*="col-md-"] img {
+		display: inline;
+		width: auto;
+	}
+
+	div.flexslider div.portfolio-item,
+	div.flexslider article {
+		margin: 0 auto 25px;
+		text-align: left;
+	}
+
+	/* Scroll to Top */
+	a.scroll-to-top {
+		display: none !important;
+	}
+}
+
+@media (max-width: 767px) {
+	/* Header */
+	header {
+		display: block;
+	}
+
+	header > div.container {
+		width: 100%;
+	}
+
+	/* Navigation */
+	header.center nav {
+		width: auto;
+	}
+
+	header nav ul.nav-top {
+		float: right;
+		margin-right: 0;
+	}
+
+	/* Responsive Button Nav */
+	button.btn-responsive-nav {
+		top: 15px;
+	}
+
+	/* Caption */
+	div.slider > ul > li > div.caption {
+		margin-left: 20px !important;
+	}
+
+	div.slider > ul > li > div.center-caption {
+		margin-left: 0 !important;
+	}
+	
+	.project.detail .valign { margin-bottom: 10px; }
+
+}
+
+@media (max-width: 479px) {
+
+	/* Base */
+	body {
+		font-size: 13px;
+	}
+
+	h2 {
+		line-height: 40px;
+	}
+
+	/* Arrow */
+	span.arrow {
+		display: none;
+	}
+
+	/* Navigation */
+	header nav ul.nav-top,
+	header div.header-top {
+		display: none;
+	}
+
+	/* Flex Slider */
+	div.flexslider,
+	div.flexslider.unstyled,
+	div.flexslider.unstyled {
+		margin-top: 20px;
+	}
+	
+
+}
+
+/* Nav Responsive Breakpoints */
+@media (max-width: 600px) {
+
+	header nav ul.nav-top li {
+		display: none;
+	}
+
+	header nav ul.nav-top li.phone {
+		display: block;
+	}
+
+}
