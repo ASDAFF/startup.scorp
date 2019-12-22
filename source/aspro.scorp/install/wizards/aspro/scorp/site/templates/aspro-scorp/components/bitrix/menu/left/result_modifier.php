@@ -1,0 +1,1 @@
+<?$arResult = CScorp::getChilds($arResult);?>

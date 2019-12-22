@@ -1,0 +1,1 @@
+<span class="btn btn-default btn-lg" data-event="jqm" data-param-id="<?=CCache::$arIBlocks[SITE_ID]["aspro_scorp_form"]["aspro_scorp_question"][0]?>" data-name="question">Задать вопрос</span>

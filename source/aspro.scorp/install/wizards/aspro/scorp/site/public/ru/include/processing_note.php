@@ -1,0 +1,1 @@
+Я согласен на <!-- noindex  --><a href="#SITE_DIR#info/processing/" target="_blank" rel="nofollow">обработку персональных данных</a><!-- /noindex  -->

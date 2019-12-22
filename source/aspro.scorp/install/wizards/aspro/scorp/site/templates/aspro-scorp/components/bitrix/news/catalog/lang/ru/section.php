@@ -1,0 +1,30 @@
+<?
+$MESS["SECTION_EMPTY"] = 'Нет товаров';
+$MESS["SECTION_NOTFOUND"] = 'Раздел не найден';
+$MESS["T_SORT"] = "Показывать как";
+$MESS["T_LIST"] = "Плитка";
+$MESS["T_LIST_VIEW"] = "Плиточное отображение";
+$MESS["T_LIST"] = "Список";
+$MESS["T_TABLE"] = "Таблица";
+$MESS["T_TABLE_VIEW"] = "Строчный вывод";
+$MESS["T_PRICE_VIEW"] = "Вывод прайсом";
+$MESS["sort_title"] = "Сортировать по ";
+$MESS["sort_title_property"] = "Сортировать по свойству \"#CODE#\"";
+$MESS["sort_name_asc"] = "наименованию (А-Я)";
+$MESS["sort_name_desc"] = "наименованию (Я-А)";
+$MESS["sort_sort"] = "популярности";
+$MESS["sort_PRICE_asc"] = "цене (сначала дешёвые)";
+$MESS["sort_PRICE_desc"] = "цене (сначала дорогие)";
+$MESS["ELEMENT_NOTFOUND"] = "Элемент не найден";
+$MESS["SHARE_TEXT"] = 'Поделиться ссылкой:';
+$MESS["BACK_LINK"] = "Вернуться к списку";
+$MESS["T_DOCS"] = 'Документы';
+$MESS["T_GALLERY"] = 'Галерея';
+$MESS["T_PROJECTS"] = 'Проекты';
+$MESS["T_REVIEWS"] = 'Отзывы';
+$MESS["T_STAFF1"] = 'Сотрудник';
+$MESS["T_STAFF2"] = 'Сотрудники';
+$MESS["T_GOODS"] = 'Товары';
+$MESS["T_SERVICES"] = 'Услуги';
+$MESS["T_CHARACTERISTICS"] = "Характеристики";
+?>
